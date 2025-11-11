@@ -3,7 +3,7 @@ schema_version: 1
 
 context:
   name: modelsearch
-  version: "1.1"
+  version: "1.1.1"
 
 package:
   name: ${{ name|lower }}
@@ -11,7 +11,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/${{ name[0] }}/${{ name }}/modelsearch-${{ version }}.tar.gz
-  sha256: bdccbe9c80b7ac37aecc998ca13f7b05915acca1a2405d73755245df03a37a36
+  sha256: 25f329c4d93572729c931f65c46cedb5cfc32d368690ebdabc223aa6205251d6
 
 build:
   number: 0
