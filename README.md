@@ -3,11 +3,13 @@ About modelsearch-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/modelsearch-feedstock/blob/main/LICENSE.txt)
 
-Home: https://github.com/kaedroho/django-modelsearch
+Home: https://github.com/wagtail/django-modelsearch
 
 Package license: BSD-3-Clause
 
 Summary: A library for indexing Django models with Elasicsearch, OpenSearch or database and searching them with the Django ORM.
+
+Development: https://github.com/wagtail/django-modelsearch
 
 Current build status
 ====================
